@@ -30,6 +30,7 @@ div.box {
 }
 
 .search input {
+  outline: none;
   margin-left: 50px;
   margin-top: 10px;
   margin-bottom: 40px;
